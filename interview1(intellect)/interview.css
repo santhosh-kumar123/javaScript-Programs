@@ -1,0 +1,18 @@
+@media (min-width: 300px) {
+  .p1 {
+    background-color: red;
+    text-align: center;
+  }
+}
+@media (min-width: 700px) {
+  .p2 {
+    background-color: aqua;
+    text-align: center;
+  }
+}
+@media (min-width: 1000px) {
+  .p3 {
+    background-color: greenyellow;
+    text-align: center;
+  }
+}

@@ -1,0 +1,6 @@
+:root {
+  --btncolor: blue;
+}
+button {
+  background-color:var(--btncolor);
+}
